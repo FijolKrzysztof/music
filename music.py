@@ -11,7 +11,7 @@ from mutagen import File
 import os
 
 driverPath = '/path/to/chromedriver'
-downloadFolderPath = '/path/to/Downloads/folder'
+downloadFolderPath = '/path/to/Downloads/folder/'
 
 title, main_artist, other_artists = '', '', ''
 title_search, main_artist_search = '', ''
