@@ -10,7 +10,3 @@ KEYBOARD SHORTCUTS:
   "s" manual track search.
   "d" download the song.
   "esc" quit the program.
-
-WEBSITE:
-  
-  [GitHub](https://github.com/FijolKrzysztof/website)
